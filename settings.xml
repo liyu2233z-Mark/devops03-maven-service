@@ -173,7 +173,7 @@ under the License.
       <name>aliyun maven</name>
       <url>https://maven.aliyun.com/repository/public</url>
     </mirror>
-   </mirrors>
+</mirrors>
   
   <!-- profiles
    | This is a list of profiles which can be activated in a variety of ways, and which can modify
